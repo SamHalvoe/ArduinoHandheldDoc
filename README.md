@@ -1,5 +1,17 @@
+---
+layout: landing
+---
+
 # 🎮 Arduino Handheld
 
-Dies ist die Dokumentation der Hardware und Software für meinen Arduino Handheld.
+## Einführung
 
-Das Herzstück bildet der Teensy 4.1 - [https://www.pjrc.com/teensy/index.html](https://www.pjrc.com/teensy/index.html)
+Dies ist die Dokumentation der Hardware und Software für meinen Arduino Handheld. Das Herzstück bilden der Teensy 4.1 - [https://www.pjrc.com/teensy/index.html](https://www.pjrc.com/teensy/index.html) und ein 2.8" Resitives Touch Display mit 240x320 Pixeln und dem Treiber ILI9341.
+
+## Inhaltsverzeichnis
+
+[README (1).md](<README (1).md> "mention")
+
+[optimierte-wire-bibliothek.md](optimierte-wire-bibliothek.md "mention")
+
+[anpassung-bibliothek-battery-babysitter.md](anpassung-bibliothek-battery-babysitter.md "mention")
