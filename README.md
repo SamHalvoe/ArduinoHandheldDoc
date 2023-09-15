@@ -10,8 +10,7 @@ Dies ist die Dokumentation der Hardware und Software für meinen Arduino Handhel
 
 ## Inhaltsverzeichnis
 
-[eingabemodule.md](eingabemodule.md "mention")
-
-[optimierte-wire-bibliothek.md](optimierte-wire-bibliothek.md "mention")
-
-[anpassung-bibliothek-battery-babysitter.md](anpassung-bibliothek-battery-babysitter.md "mention")
+1. [schaltplan.md](schaltplan.md "mention")
+2. [eingabemodule.md](eingabemodule.md "mention")
+3. [optimierte-wire-bibliothek.md](optimierte-wire-bibliothek.md "mention")
+4. [anpassung-bibliothek-battery-babysitter.md](anpassung-bibliothek-battery-babysitter.md "mention")
