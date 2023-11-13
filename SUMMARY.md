@@ -5,3 +5,4 @@
 * [🕹 Eingabemodule](eingabemodule.md)
 * [⛓ Optimierte Wire Bibliothek](optimierte-wire-bibliothek.md)
 * [⛓ Anpassung Bibliothek Battery Babysitter](anpassung-bibliothek-battery-babysitter.md)
+* [💻 Custom Linker File](custom-linker-file.md)
