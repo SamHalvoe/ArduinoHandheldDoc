@@ -14,4 +14,6 @@ Dies ist die Dokumentation der Hardware und Software für meinen Arduino Handhel
 2. [eingabemodule.md](eingabemodule.md "mention")
 3. [optimierte-wire-bibliothek.md](optimierte-wire-bibliothek.md "mention")
 4. [anpassung-bibliothek-battery-babysitter.md](anpassung-bibliothek-battery-babysitter.md "mention")
+5. [anpassung-espmail-und-wifinina-bibliothek.md](anpassung-espmail-und-wifinina-bibliothek.md "mention")
+6. [custom-linker-file.md](custom-linker-file.md "mention")
 
