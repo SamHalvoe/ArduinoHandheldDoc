@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T23:24:12+01:00
+modified: 2024-01-02T23:26:19+01:00
 ---
 
 # Notes - Hardware
@@ -28,11 +28,6 @@ Input Register ()
 Cables []
 Custom PCB ?!?
 Custom 3D Printed Parts []
-
-
-## Libraries
-
-Teensy Core ()
 
 
 ## Software
