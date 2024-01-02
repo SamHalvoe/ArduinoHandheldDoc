@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T23:28:55+01:00
+modified: 2024-01-02T23:32:47+01:00
 ---
 
 # Notes - Hardware
@@ -28,9 +28,3 @@ Input Register ()
 Cables []
 Custom PCB ?!?
 Custom 3D Printed Parts []
-
-
-## ArduinoPet ~ Dumbo Octopus
-
-likings for food, drinks, activities
-skin color change for mood
