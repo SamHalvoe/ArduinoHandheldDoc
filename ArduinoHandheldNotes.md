@@ -1,11 +1,11 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T23:13:48+01:00
+modified: 2024-01-02T23:15:12+01:00
 ---
 
 # ArduinoHandheld
 
-##Hardware
+## Hardware
 
 Teensy 4.1 ()
 PSRAM for Teensy 4.1 () * 2
@@ -29,17 +29,20 @@ Cables []
 Custom PCB ?!?
 Custom 3D Printed Parts []
 
-Libraries
+## Libraries
+
 Teensy Core ()
 
 
-Software
+## Software
+
 replace BlockNot with elapsedMillis/elapsedMicros: https://www.pjrc.com/teensy/td_timing_elaspedMillis.html
 consider to create classes (e.g. WireController) for each I2C bus and their setup methods in Arduino#setup
 log also uptime of handheld with sd logger, and log 'real' time only if available
 use 8 bit colors with custom palette (256 colors, maybe 28 * 9 ramps (252) + black & white (254) + grey33 & grey66 (256))
 consider to use ChaiScript/AngelScript to enable post build program logic modification (scripting) and moving of program logic from Teensy flash memory to SD card memory and (PS)RAM
 
-ArduinoPet – Dumbo Octopus
+## ArduinoPet ~ Dumbo Octopus
+
 likings for food, drinks, activities
 skin color change for mood
