@@ -1,11 +1,12 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T22:55:05+01:00
+modified: 2024-01-02T23:13:48+01:00
 ---
 
 # ArduinoHandheld
 
-Hardware
+##Hardware
+
 Teensy 4.1 ()
 PSRAM for Teensy 4.1 () * 2
 Micro SD Card >= 32 GB ()
