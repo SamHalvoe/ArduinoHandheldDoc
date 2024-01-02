@@ -1,9 +1,9 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T23:17:54+01:00
+modified: 2024-01-02T23:18:06+01:00
 ---
 
-# ArduinoHandheld Notes - Hardware
+# Notes - Hardware
 
 ## Hardware Components
 
