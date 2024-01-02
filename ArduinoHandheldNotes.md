@@ -1,11 +1,11 @@
 ---
 created: 2024-01-02T22:55:05+01:00
-modified: 2024-01-02T23:18:06+01:00
+modified: 2024-01-02T23:22:47+01:00
 ---
 
-# Notes - Hardware
+# Notes (not updated)
 
-## Hardware Components
+## Hardware
 
 Teensy 4.1 ()
 PSRAM for Teensy 4.1 () * 2
